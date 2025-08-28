@@ -30,7 +30,7 @@ export function Nav() {
       ) : null}
       <div className="text-sm font-semibold p-2 pr-0 flex justify-between items-center mb-2">
         <Link href="/" className="flex items-center gap-1.5">
-          <span className="w-28 text-black font-semibold">Acme Inc</span>
+          <span className="w-28 text-black font-semibold">Issue Tracker</span>
         </Link>
         <button
           onClick={() => {
