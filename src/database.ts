@@ -1,66 +1,66 @@
 const USER_INFO: Liveblocks["UserMeta"][] = [
   {
-    id: "charlie.layne@example.com",
+    id: "cat@example.com",
     info: {
-      name: "Charlie Layne",
+      name: "Cat",
       color: "#D583F0",
-      avatar: "https://liveblocks.io/avatars/avatar-1.png",
+      avatar: "/avatars/cat.png",
     },
   },
   {
-    id: "mislav.abha@example.com",
+    id: "fox@example.com",
     info: {
-      name: "Mislav Abha",
+      name: "Fox",
       color: "#F08385",
-      avatar: "https://liveblocks.io/avatars/avatar-2.png",
+      avatar: "/avatars/fox.png",
     },
   },
   {
-    id: "tatum-paolo@example.com",
+    id: "giraffe@example.com",
     info: {
-      name: "Tatum Paolo",
+      name: "Giraffe",
       color: "#F0D885",
-      avatar: "https://liveblocks.io/avatars/avatar-3.png",
+      avatar: "/avatars/giraffe.png",
     },
   },
   {
-    id: "anjali-wanda@example.com",
+    id: "gorilla@example.com",
     info: {
-      name: "Anjali Wanda",
+      name: "Gorilla",
       color: "#85EED6",
-      avatar: "https://liveblocks.io/avatars/avatar-4.png",
+      avatar: "/avatars/gorilla.png",
     },
   },
   {
-    id: "jody-hekla@example.com",
+    id: "koala@example.com",
     info: {
-      name: "Jody Hekla",
+      name: "Koala",
       color: "#85BBF0",
-      avatar: "https://liveblocks.io/avatars/avatar-5.png",
+      avatar: "/avatars/koala.png",
     },
   },
   {
-    id: "emil-joyce@example.com",
+    id: "lion@example.com",
     info: {
-      name: "Emil Joyce",
+      name: "Lion",
       color: "#8594F0",
-      avatar: "https://liveblocks.io/avatars/avatar-6.png",
+      avatar: "/avatars/lion.png",
     },
   },
   {
-    id: "jory-quispe@example.com",
+    id: "panda@example.com",
     info: {
-      name: "Jory Quispe",
+      name: "Panda",
       color: "#85DBF0",
-      avatar: "https://liveblocks.io/avatars/avatar-7.png",
+      avatar: "/avatars/panda.png",
     },
   },
   {
-    id: "quinn-elton@example.com",
+    id: "tiger@example.com",
     info: {
-      name: "Quinn Elton",
+      name: "Tiger",
       color: "#87EE85",
-      avatar: "https://liveblocks.io/avatars/avatar-8.png",
+      avatar: "/avatars/tiger.png",
     },
   },
 ];
