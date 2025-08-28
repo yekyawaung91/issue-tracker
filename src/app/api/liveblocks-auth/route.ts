@@ -6,7 +6,7 @@ import { getSession } from "@/example";
 // https://liveblocks.io/docs/authentication
 
 const liveblocks = new Liveblocks({
-  secret: process.env.LIVEBLOCKS_SECRET_KEY as string,
+  secret: 'sk_dev_hCuT4Z_BLQszpy7iZ-SmRapjsUuNCm6frUGR_c15ykEjYp316ano0EZU80wiGc6F',
 });
 
 export async function POST(request: NextRequest) {
